@@ -21,7 +21,7 @@ function Form() {
   return (
     <>
     <form onSubmit={handleSubmit}>
-        <p>Username: {username}</p>
+        <p>User name: {username}</p>
         <input type = "text" ></input>
    
 
